@@ -1,35 +1,14 @@
 {
   "name": "VOIDLING #001",
   "description": "The first character concept from ASTRAVOID, an original digital collectible project by kkajhe.",
-  "image": "REPLACE_WITH_PUBLIC_IMAGE_URL",
+  "image": "https://astravoid.netlify.app/voidling-001.png",
   "attributes": [
-    {
-      "trait_type": "Collection",
-      "value": "ASTRAVOID"
-    },
-    {
-      "trait_type": "Creator",
-      "value": "kkajhe"
-    },
-    {
-      "trait_type": "Telegram",
-      "value": "@qwecrty"
-    },
-    {
-      "trait_type": "Series",
-      "value": "001"
-    },
-    {
-      "trait_type": "Model",
-      "value": "Voidling"
-    },
-    {
-      "trait_type": "Element",
-      "value": "Void"
-    },
-    {
-      "trait_type": "Color",
-      "value": "Violet"
-    }
+    {"trait_type": "Collection", "value": "ASTRAVOID"},
+    {"trait_type": "Creator", "value": "kkajhe"},
+    {"trait_type": "Telegram", "value": "@qwecrty"},
+    {"trait_type": "Series", "value": "001"},
+    {"trait_type": "Model", "value": "Voidling"},
+    {"trait_type": "Element", "value": "Void"},
+    {"trait_type": "Color", "value": "Violet"}
   ]
 }
